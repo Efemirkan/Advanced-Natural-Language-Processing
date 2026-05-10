@@ -1,6 +1,10 @@
 __pycache__/
+sentence-completion/
+07_fine_tunning/ner/
+07_fine_tunning/julie-bert-base-uncased-bookclassifier
 .ipynb_checkpoints/
 datasets/
+data/
 *.csv
 *.pt
 *.pth
